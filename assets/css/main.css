@@ -21,7 +21,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #ffffff; }
+  background: #070000; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -102,7 +102,7 @@ html {
 
 body {
   background-color: #ffffff;
-  color: #444444; }
+  color: #6e6a6a; }
 
 body, input, select, textarea {
   font-family: "Raleway", Arial, Helvetica, sans-serif;
